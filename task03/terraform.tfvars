@@ -1,0 +1,7 @@
+rg_name               = "cmaz-wbdw4cma-mod3-rg"
+location              = "East US"
+storage_account_name  = "cmazwbdw4cmasa"
+vnet_name             = "cmaz-wbdw4cma-mod3-vnet"
+frontend_subnet_name  = "frontend"
+backend_subnet_name   = "backend"
+student_email         = "otar_bakhtadze@epam.com"
